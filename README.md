@@ -1,2 +1,3 @@
 # freelancer-page
-[Ver sitio] (https://freelancerpage-db.netlify.app/)
+[Ver sitio][sitio]
+[sitio]:https://freelancerpage-db.netlify.app/
